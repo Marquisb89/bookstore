@@ -1,4 +1,4 @@
-Bob smith
-Zahar smith
-Steve smith
-Anna smith
+Bob smith - m 25
+Zahar smith - f 25
+Steve smith - m 25
+Anna smith - a 25
