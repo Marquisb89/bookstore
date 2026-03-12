@@ -1,4 +1,4 @@
-Bob 
-Zahar
-Steve 
-Anna 
+Bob - 25 - m
+Zahar - 20 - m
+Steve - 20 - m
+Anna -20 -f
